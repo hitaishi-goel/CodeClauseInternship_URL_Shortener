@@ -38,9 +38,6 @@ This project uses the following Python libraries:
 - `pyshorteners`: A library for URL shortening.
 - `Pillow`: A library for opening, manipulating, and saving images.
 
-## Tutorial Video
-
-URL_shortener.mp4
 
 
 ## File Structure
