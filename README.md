@@ -8,7 +8,7 @@ To use this URL Shortener, follow these steps:
 
 1. Clone or download this repository to your local machine.
    ```bash
-   git clone https://github.com/hitaishi-goel/CodeClauseInternship_AlarmClockWithGUI.git
+   git clone https://github.com/hitaishi-goel/CodeClauseInternship_URL_Shortener.git
    ```
 2. Make sure you have Python 3.x installed on your computer.
 
