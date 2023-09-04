@@ -7,7 +7,9 @@ This is a simple URL Shortener application created using Python's Tkinter librar
 To use this URL Shortener, follow these steps:
 
 1. Clone or download this repository to your local machine.
-
+   ```bash
+   git clone https://github.com/hitaishi-goel/CodeClauseInternship_AlarmClockWithGUI.git
+   ```
 2. Make sure you have Python 3.x installed on your computer.
 
 3. Install the required Python libraries by running the following command:
